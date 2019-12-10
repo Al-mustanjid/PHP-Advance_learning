@@ -1,0 +1,2 @@
+This is a test string writing to /'demo.txt/' file
+This is another string

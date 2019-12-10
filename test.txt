@@ -1,0 +1,1 @@
+This is the first string of this txt file This is another line.

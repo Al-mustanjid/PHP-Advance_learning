@@ -1,0 +1,1 @@
+<h3>This page is required by require() func </h3>
